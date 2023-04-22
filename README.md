@@ -15,5 +15,5 @@ Now you can use Ashbaugh potential in HOOMD-blue v3!
 
 Hope you enjoy it!   
 
-If you encounter any problem when using it, feel free to contact with me!  
+If you encounter any problem when using it, feel free to contact me!  
 E-mail: xsliu16@fudan.edu.cn
